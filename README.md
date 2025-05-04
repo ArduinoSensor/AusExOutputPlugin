@@ -304,6 +304,7 @@ outputDevice.SetRtc(&rtc);
 - AusExDHT_terminal : 測定結果をシリアル/ソフトシリアル/SD上のログファイルに書き込むプログラム
 
 
+
 ## 外部リンク
 - Adafruit Unified Sensor Driver - [https://github.com/adafruit/Adafruit_Sensor][AdafruitUSD]
 - RTC-8564NB - [https://www5.epsondevice.com/ja/products/rtc/rtc8564nb.html][RTC8564NB]
@@ -315,8 +316,7 @@ outputDevice.SetRtc(&rtc);
 - RTC APIライブラリ - [https://github.com/houtbrion/RTC_U][RTC_U]
 
 
-[RTC_U]:https://github.com/houtbrion/RTC_U
+[RTC_U]:https://github.com/ArduinoRTC/RTC_U
 [ArduinoHttpClient]:https://github.com/arduino-libraries/ArduinoHttpClient
 [ArduinoMqttClient]:https://github.com/arduino-libraries/ArduinoMqttClient
-
 
